@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-config_dev:
-        version:1
-=======
-春风又绿江南岸。
->>>>>>> cd365a1415ca65b288361c12b36c634a7052adf8
+dev:
+version:1
+

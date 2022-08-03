@@ -1,2 +1,2 @@
-config_prod:
-        version:1
+prod:
+     version:1
